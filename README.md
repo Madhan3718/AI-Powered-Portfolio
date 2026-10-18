@@ -18,7 +18,7 @@ Static portfolios are *so last season* — this is an **AI-powered conversation*
 
 ## 🚀 Live Demo
 
-👉 **[https://madan-dev.netlify.app/](https://madan-ai.netlify.app/)**
+👉 **[https://madan-ai.netlify.app/](https://madan-ai.netlify.app/)**
 *What will you ask first?*
 
 ---
