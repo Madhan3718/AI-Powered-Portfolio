@@ -1,6 +1,6 @@
 # Madan AI Portfolio 🤖
 
-An interactive, AI-powered portfolio for **Madankumar Budidapalli** (Madan).
+An interactive, AI-powered portfolio for me.
 Static portfolios are *so last season* — this is an **AI-powered conversation** tailored to whoever's visiting.
 
 💬 **Ask me anything** — my AI avatar responds instantly.
